@@ -1,0 +1,6 @@
+
+# Ignore the helloVue folder
+helloVue/
+
+# Ignore the nginx-1.18.0 folder
+nginx-1.18.0/
